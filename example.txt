@@ -1,0 +1,6 @@
+1.foo
+hogehoge
+piyopiyo
+
+AAAA
+foobar
