@@ -11,12 +11,12 @@ A simple TextFormatter for me.
 ...  
   
 ### Example
-1.foo
-hogehoge
-piyopiyo
-
-AAAA
-foobar
+1.foo  
+hogehoge  
+piyopiyo  
+  
+AAAA  
+foobar  
 
 ## Result(part of HTML)
 ```html
@@ -33,6 +33,6 @@ foobar
 $ node textFormat "TargetFile" mac|cr|linux|lf|windows|crlf(Optional)
 
 
-Example: node textFormat "./target.txt" crlf
-default code is CRLF(\\r\\n)
-The result is written "./formatted.txt",and it is opened automatically.
+Example: node textFormat "./target.txt" crlf  
+default code is CRLF(\\r\\n)  
+The result is written "./formatted.txt",and it is opened automatically.  
