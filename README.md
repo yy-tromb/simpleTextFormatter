@@ -34,6 +34,6 @@ foobar
 $ node textFormat "TargetFile" [mac|cr|linux|lf|windows|crlf](Optional)
 ```
 
-Example: node textFormat "./target.txt" crlf  
+Example: `node textFormat "./target.txt" crlf`  
 default code is CRLF(\\r\\n)  
 The result is written "./formatted.txt",and it is opened automatically.  
