@@ -30,7 +30,7 @@ foobar
   
   
 ## Usage
-```
+```bash
 $ node textFormat "TargetFile" mac|cr|linux|lf|windows|crlf(Optional)
 ```
 
