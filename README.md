@@ -25,13 +25,12 @@ foobar
 <p>[body-1]</p>
 <h2>[content-1]</h2>
 <p>[body-0]</p>
-~~~~~~~~~~
-```
-
+~~~~~~~~~~  
+  
 ## Usage
 ```
 $ node textFormat "TargetFile" mac|cr|linux|lf|windows|crlf(Optional)
-```
+
 Example: node textFormat "./target.txt" crlf
 default code is CRLF(\\r\\n)
 The result is written "./formatted.txt",and it is opened automatically.
