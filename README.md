@@ -38,4 +38,4 @@ If you use `textFormat.exe` , you don't have to setup Node.js (Windows only)
 
 Example: `node textFormat "./target.txt" crlf`  
 default code is CRLF(\\r\\n)  
-The result is written "./formatted.txt",and it is opened automatically.  
+The result is written in "./formatted.txt",and it is opened automatically.  
