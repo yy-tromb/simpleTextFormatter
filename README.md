@@ -27,6 +27,7 @@ foobar
 <p>[body-0]</p>
 ------------
   
+  
 ## Usage
 ```
 $ node textFormat "TargetFile" mac|cr|linux|lf|windows|crlf(Optional)
