@@ -2,13 +2,13 @@
 A simple TextFormatter for me.
   
 ## Target  
-[content-0]  
-[body-0]  
-[body-1]  
+(content-0)  
+(body-0)  
+(body-1)  
 (new line)  
-[content-1]  
-[body-0]  
---------------  
+(content-1)  
+(body-0)  
+...  
   
 ### Example
 1.foo
@@ -25,7 +25,7 @@ foobar
 <p>[body-1]</p>
 <h2>[content-1]</h2>
 <p>[body-0]</p>
-------------
+...
   
   
 ## Usage
