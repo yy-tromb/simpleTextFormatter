@@ -29,10 +29,12 @@ foobar
 ```
   
   
-## Usage
+## Usage(with Node.js)
 ```
 $ node textFormat "TargetFile" [mac|cr|linux|lf|windows|crlf](Optional)
 ```
+If you use `textFormat.exe` , you don't have to setup Node.js (Windows only)  
+[Downloadfrom Releases](https://github.com/yyhome-tromb/simpleTextFormatter/releases/tag/v1.0)  
 
 Example: `node textFormat "./target.txt" crlf`  
 default code is CRLF(\\r\\n)  
